@@ -1,19 +1,13 @@
 <!--suppress HtmlDeprecatedTag, XmlDeprecatedElement -->
-<center><img alt="mod preview" src="https://upload.wikimedia.org/wikipedia/commons/7/70/Example.png"/></center>
+<center><img alt="mod preview" src="https://cdn.modrinth.com/data/UTT8ijPB/732efcbde5f34e7c55716780586036798aea381e_96.webp"/></center>
 
 <center>
-A short quick summary of this mod
-</center>
+ Confetti Cannon</center>
 
 ---
 
-A long description of your mod, including 
-- Dot point lists of all features
-
-`path/to/config/files` if you have them
-
-Screenshots of features where possible
+This mod adds the Confetti Cannon. It's a simple Item that let's you shoot out confetti and push back players. Time to annoy your friends!
 
 ---
 
-A footnote for special thanks, credits, and other shoutouts - including "created at modfest" banners.
+made with ❤️ by traxon_lp
